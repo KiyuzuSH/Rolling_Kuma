@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "KumaNormal",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9af1cd37-a3ba-4733-9702-264e189e64b4"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "01a2c186-fcac-4e08-a804-f7730172fc38"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "462e29b6-ae42-4a21-90da-f1bb11a0a1bc"
+            }
+          },
+          {
+            "frame": 0.43333333333333335,
+            "value": {
+              "__uuid__": "098f4c63-08f1-464b-9741-b0b5885a03c9"
+            }
+          },
+          {
+            "frame": 0.5666666666666667,
+            "value": {
+              "__uuid__": "8d0e9f15-4e9b-4fff-922d-c02f58f90156"
+            }
+          },
+          {
+            "frame": 0.6333333333333333,
+            "value": {
+              "__uuid__": "9af1cd37-a3ba-4733-9702-264e189e64b4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

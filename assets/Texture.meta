@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "f7649978-dd74-4c02-b968-126332d3443b",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "Texture",
+  "priority": 1,
+  "compressionType": {
+    "wechatgame": "subpackage"
+  },
+  "optimizeHotUpdate": {
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "wechatgame": false
+  },
+  "subMetas": {}
+}
